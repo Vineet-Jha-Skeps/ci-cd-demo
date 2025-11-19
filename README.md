@@ -43,19 +43,3 @@ Required Secrets:
 * `DOCKERHUB_USERNAME`
 * `DOCKERHUB_TOKEN`
 * `REPO_NAME`
-
----
-
-### 🧪 Running Tests Locally
-
-```sh
-python3 -m pip install -r requirements.txt
-pytest -v
-```
-
----
-
-### 👨‍💻 Author
-
-**Vineet Jha**
-Demo project showcasing CI/CD automation skills with Docker & GitHub Actions.
