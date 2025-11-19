@@ -43,3 +43,16 @@ Required Secrets:
 * `DOCKERHUB_USERNAME`
 * `DOCKERHUB_TOKEN`
 * `REPO_NAME`
+
+---
+
+  ### 🐳 Docker Image (Public)
+
+You can pull and run the Docker image from Docker Hub:
+
+👉 https://hub.docker.com/repository/docker/vineetjhade/cicd-demo/general
+
+```bash
+docker pull vineetjhade/cicd-demo:latest
+docker run -p 5000:5000 vineetjhade/cicd-demo:latest
+
