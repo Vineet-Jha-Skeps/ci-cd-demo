@@ -1,2 +1,2 @@
-# cicd-demo
-CICD Demo 
+# ci/cd-demo
+CI/CD Demo App
