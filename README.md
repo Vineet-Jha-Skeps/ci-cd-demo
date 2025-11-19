@@ -1,6 +1,6 @@
 # 🐍 CI/CD Demo App
 
-A simple **Hello World** Python web application containerized with **Docker** and automated deployment using **GitHub Actions CI/CD**.
+A simple **Hello World** Python web application containerized with **Docker** and automated testing and deployment to Dockerhub Repository using **GitHub Actions CI/CD**.
 
 ---
 
